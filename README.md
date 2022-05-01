@@ -35,6 +35,9 @@ Endroit pour récupérer les assets et les templates nécessaire à la construct
 ### Teams :
 Outils de communication et de partage de fichier.
 
+### Blender :
+Pour convertir des assets dans le format souhaité afin de les intégrer dans notre projet.
+
 ## Assets utilisés
 
 ## Tutoriels suivis
