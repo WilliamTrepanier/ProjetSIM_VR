@@ -19,10 +19,37 @@ Ce projet est destiné principalement aux étudiants qui souhaite avoir une autr
 De plus, les niveaux sont également conçus pour un plus large public qui désire simplement découvrir des phénomènes scientifiques de manières originales tout en étant simple à aborder.
 
 ### Lien avec les autres matières :
-En ce qui concerne les liens avec les autres matières, nous nous basons surtout et nous nous inspirons sur une très large échelle des notions de physiques que nous avons vu en classe. Que ce soit des notions du premier, du second ou du troisième cours de physique, maintes applications physiques seront implémentées dans notre jeu. Quelques exemples : Utiliser un élément aimanté pour en attirer un deuxième pour activer un bouton pour ouvrir une porte et débloquer le chemin.
+En ce qui concerne les liens avec les autres matières, nous nous basons surtout et nous nous inspirons sur une très large échelle des notions de physiques que nous avons vu en classe. Que ce soit des notions du premier, du second ou du troisième cours de physique, maintes applications physiques seront implémentées dans notre jeu. Par exemple : Utiliser un élément aimanté pour en attirer un deuxième pour activer un bouton pour ouvrir une porte et débloquer le chemin.
 
+## Technologies
 
+### GitHub :
+Outils de collaboration permettant de travailler sur un même projet en équipe et de sauvegarder des copies. 
 
+### Unreal Engine 4 :
+Moteur de jeu dans lequel on peut éditer et exécuter le projet. Nous utiliserons également les blueprints pour la programmation de notre projet. 
+
+### Unreal Marketplace :
+Endroit pour récupérer les assets et les templates nécessaire à la construction du projet. 
+
+### Teams :
+Outils de communication et de partage de fichier.
+
+## Assets utilisés
+
+## Tutoriels suivis
+
+## Captures d'écrans de notre projet
+
+## Difficultés rencontrées
+
+## Échéancier
+
+## UML
+
+## Perspectives
+
+## Conclusion
 
 
 
