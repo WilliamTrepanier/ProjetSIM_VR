@@ -1,8 +1,3 @@
-
-
-<img src="Capture d’écran jefaim.png" alt="Girl in a jacket" width="500">
-
-
 # ProjetSIM_VR
 ## Projet réalisé par : Guillaume Bordeleau, Jérémy Sinou et William Trépanier
 
@@ -112,6 +107,7 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 
 ## Captures d'écrans de notre projet
 
+<img src="./Images/Capture d’écran jefaim.png" alt="J'ai faim" width="600">
 
 ## Difficultés rencontrées
 
@@ -180,7 +176,6 @@ Fin du level design, finaliser le JavaDoc (les commentaires) et remise du projet
 •	Ajout d’éléments de customisation pour le joueur
 
 •	Ajout d’une bande sonore élaborée
-
 
 ## Conclusion
 
