@@ -117,9 +117,9 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 
 <img src="./Images/Capture d’écran Rick roll.png" alt="Rick Astley" width="550">
 
-<img src="./Images/Capture d’écran ouvert.png" alt="Porte ouverte" width="550">
-
 <img src="./Images/Capture d’écran pas ouvert.png" alt="Porte pas ouverte" width="550">
+
+<img src="./Images/Capture d’écran ouvert.png" alt="Porte ouverte" width="550">
 
 ### Images provenant de la map du niveau 1:
 <img src="./Images/Capture d’écran depart.png" alt="Début 1" width="550">
