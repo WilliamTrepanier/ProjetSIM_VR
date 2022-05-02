@@ -54,16 +54,27 @@ Apprentissage des concepts essentiels quant à l'utilisation des différents out
 Suivis de tutoriels plus précis en lien avec la réalité virtuelle : https://www.unrealengine.com/en-US/onlinelearning-courses/creating-virtual-reality-walkthroughs
 
 Créer une zone de téléportation qui permettra de passer d'un niveau à un autre.
+
 Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
+
 Tutoriel permettant de déverrouiller une porte avec une clé portée sur soi : https://youtu.be/29--ieorX7Q
+
 Tutoriel portant sur des mécanismes d'activation engendré par des boutons : https://youtu.be/q2oyK8FYxOo
+
 Tutoriel - Création d'un systèeme d'inventaire en VR : https://www.youtube.com/watch?v=1jUtN3S_3Ms
+
 Tutoriel - Système d'aimants (Magnétisme) : https://www.youtube.com/watch?v=--xR0aQ2rB0
+
 Tutoriel - Système de lasers (Réflexion|Miroir) : https://youtu.be/EM1MkdDW0Ic
+
 Tutoriel - Création de matériaux s'apparentant à un miroir : https://youtu.be/sAcqMOX1ruY
-Tutoriel - Implémentation d'un systèeme d'ouverture de portes sécurisées :https://youtu.be/m3DQmi2LUOE | https://youtu.be/B-g6VkRFx_M | https://youtu.be/2N1xGmWY9bU  
+
+Tutoriel - Implémentation d'un systèeme d'ouverture de portes sécurisées :https://youtu.be/m3DQmi2LUOE | https://youtu.be/B-g6VkRFx_M | https://youtu.be/2N1xGmWY9bU 
+
 Tutoriel - Simulation d'interférence de la lumière : https://youtu.be/5TV2gSEnIJs
+
 Tutoriel - Création d'une animation d'arc électrique : https://www.youtube.com/watch?v=SajyFZ35OBI
+
 
 ## Captures d'écrans de notre projet
 
