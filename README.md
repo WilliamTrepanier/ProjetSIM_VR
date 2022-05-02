@@ -1,6 +1,6 @@
 
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="Capture d’écran jefaim.png" alt="Girl in a jacket" width="500" height="600">
 
 
 # ProjetSIM_VR
