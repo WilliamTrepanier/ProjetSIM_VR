@@ -107,7 +107,33 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 
 ## Captures d'écrans de notre projet
 
-<img src="./Images/Capture d’écran jefaim.png" alt="J'ai faim" width="600">
+### Image provenant du niveau de tutoriel:
+<img src="./Images/Capture d'écran tuto.png" alt="Tutoriel" width="550">
+
+<img src="./Images/Capture d’écran cle.png" alt="Clé" width="550">
+
+### Images provenant des maps pour faire des tests:
+<img src="./Images/Capture d’écran lampe et inventaire.png" alt="Clé" width="550">
+
+<img src="./Images/Capture d’écran Rick roll.png" alt="Rick Astley" width="550">
+
+<img src="./Images/Capture d’écran ouvert.png" alt="Porte ouverte" width="550">
+
+<img src="./Images/Capture d’écran pas ouvert.png" alt="Porte pas ouverte" width="550">
+
+### Images provenant de la map du niveau 1:
+<img src="./Images/Capture d’écran depart.png" alt="Début 1" width="550">
+
+<img src="./Images/Capture d’écran vue ensemble.png" alt="Vue d'ensemble" width="550">
+
+<img src="./Images/Capture d’écran jefaim.png" alt="Il a faim" width="550">
+
+### Images provenant de la map du niveau 3:
+<img src="./Images/Capture d’écran depart n3.png" alt="Départ 3" width="550">
+
+<img src="./Images/Capture d’écran n2.png" alt="Salle 2 Niveau 3" width="550">
+
+<img src="./Images/Capture d’écran n3.png" alt="Salle 3 Niveau 3" width="550">
 
 ## Difficultés rencontrées
 
