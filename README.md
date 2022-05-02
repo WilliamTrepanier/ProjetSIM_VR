@@ -39,6 +39,36 @@ Outils de communication et de partage de fichier.
 Pour convertir des assets dans le format souhaité afin de les intégrer dans notre projet.
 
 ## Assets utilisés
+### Maps : 
+Factory Environment Collection : https://www.unrealengine.com/marketplace/en-US/product/factory-environment-collection
+
+Spaceship Interior Environment : https://www.unrealengine.com/marketplace/en-US/product/spaceship-interior-environment-set
+
+Modular SciFi Season 2 Starter bundle : https://www.unrealengine.com/marketplace/en-US/product/modular-scifi-season-2-starter-bundle
+
+### Modèles d'objet :
+
+3D Circuit Board model : https://www.turbosquid.com/3d-models/3d-circuit-board-model-1279126?referral=3dmdb
+
+Simple Flashlight : https://free3d.com/3d-model/simple-flashlight-70024.html
+
+attack on titan basement key : https://www.thingiverse.com/thing:360894
+
+Obi Wans Kenobi's Saber 3D : https://www.turbosquid.com/fr/3d-models/obi-wan-lightsaber-3d-1341207
+
+Piédestal modèle 3D : https://www.turbosquid.com/fr/3d-models/free-max-model-architectural-modules/767833
+
+[SSB4] King K. Rool : https://www.thingiverse.com/thing:1078299/files
+
+Tabouret en bois Low-poly modèle 3D : https://www.turbosquid.com/fr/3d-models/3d-wooden-stool-lowpoly-model-1806860
+
+### Inclus par défaut dans la création du projet :
+
+Content Examples : https://www.unrealengine.com/marketplace/en-US/product/content-examples
+
+VrTemplate 4.27.2 : Inclu dans le moteur unreal engine
+
+StarterContent : Inclu dans le moteur unreal engine
 
 ## Tutoriels suivis
 Afin de se familiariser avec le moteur de jeu Unreal Engine 4, nous avons, en guise de pratique, complétés une liste de lecture qui nous apprends comment programmer un petit jeu. Voici le premier tutoriel que nous avons suivi : https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4
