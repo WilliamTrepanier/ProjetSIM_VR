@@ -105,12 +105,42 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 
 - Tutoriel - Création d'une animation d'arc électrique : https://www.youtube.com/watch?v=SajyFZ35OBI
 
-
 ## Captures d'écrans de notre projet
 
 ## Difficultés rencontrées
 
 ## Échéancier
+
+- Semaine 1 :
+Formation de l’équipe, choix du projet
+- Semaine 2 :
+Recherche d’idées et établissement du thème, familiarisation avec GitHub et le partage de code
+- Semaine 3 :
+Familiarisation avec Unreal Engine 4 avec des maps tests et tutoriels, continuité de la familiarisation avec GitHub avec des tests, préparation d’une présentation du projet et début de suivis de tutoriels généraux
+- Semaine 4 :
+Présentation de l’idée générale du projet, continuité des tutoriels généraux
+- Semaine 5 :
+Continuité des tutoriels sur Unreal Engine 4 en général, écriture du document d’analyse, recherche de références pour davantage d’idées, début du développement du projet
+- Semaine 6 :
+Familiarisation à la Réalité Virtuelle avec des tutoriels, tutoriels sur des concepts généraux d’Unreal Engine 4 et développement du projet
+- Semaine 7 :
+Début de la création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet
+- Semaine 8 :
+Création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet
+- Semaine 9 :
+Création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet et début de recherche d’assets
+- Semaine 10 :
+Création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet, recherche d’assets et début du level design 
+- Semaine 11 :
+Création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet, continuité du level design et correction de bugs
+- Semaine 12 :
+Création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet, continuité du level design
+- Semaine 13 :
+Création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, développement du projet, continuité du level design et finalisation de la documentation
+- Semaine 14 :
+Finalisation de la création d’éléments pour le gameplay (Blueprints) à l’aide de tutoriels, finalisation du développement du projet, continuité du level design, phase de débug et préparation pour présentation du projet
+- Semaine 15 :
+Fin du level design, finaliser le JavaDoc (les commentaires) et remise du projet final
 
 ## UML
 
