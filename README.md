@@ -1,3 +1,8 @@
+
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+
 # ProjetSIM_VR
 ## Projet réalisé par : Guillaume Bordeleau, Jérémy Sinou et William Trépanier
 
@@ -106,6 +111,7 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 - Tutoriel - Création d'une animation d'arc électrique : https://www.youtube.com/watch?v=SajyFZ35OBI
 
 ## Captures d'écrans de notre projet
+
 
 ## Difficultés rencontrées
 
