@@ -153,6 +153,29 @@ Fin du level design, finaliser le JavaDoc (les commentaires) et remise du projet
 
 ## Perspectives
 
+•	Explorer plus de phénomènes de physique en général
+
+•	Élaborer davantage les énigmes et en concevoir de nouvelles 
+
+•	Développer plus de niveaux
+
+•	Optimiser encore plus le rendu du jeu pour avoir un meilleur rapport qualité/performances
+
+•	Ajouter plus d’outils de gameplay et intégrer plus de fonctionnalités
+
+•	Configuration du suivi des mains pour améliorer l’immersion
+
+•	Conception de tutoriels plus complets dans le jeu
+
+•	Peaufiner les détails et optimiser l’expérience utilisateur
+
+•	Configuration d’un mode multijoueur
+
+•	Ajout d’éléments de customisation pour le joueur
+
+•	Ajout d’une bande sonore élaborée
+
+
 ## Conclusion
 
 
