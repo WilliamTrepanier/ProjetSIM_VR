@@ -91,7 +91,7 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 
 - Tutoriel portant sur des mécanismes d'activation engendré par des boutons : https://youtu.be/q2oyK8FYxOo
 
-- Tutoriel - Création d'un systèeme d'inventaire en VR : https://www.youtube.com/watch?v=1jUtN3S_3Ms
+- Tutoriel - Création d'un système d'inventaire en VR : https://www.youtube.com/watch?v=1jUtN3S_3Ms
 
 - Tutoriel - Système d'aimants (Magnétisme) : https://www.youtube.com/watch?v=--xR0aQ2rB0
 
