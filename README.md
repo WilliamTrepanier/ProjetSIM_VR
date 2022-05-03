@@ -179,6 +179,8 @@ Fin du level design, finaliser le JavaDoc (les commentaires) et remise du projet
 
 ## UML
 
+<img src="./Images/UML.png" alt="UML" width="800">
+
 ## Perspectives
 
 •	Explorer plus de phénomènes de physique en général
