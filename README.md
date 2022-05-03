@@ -207,6 +207,4 @@ Fin du level design, finaliser le JavaDoc (les commentaires) et remise du projet
 
 ## Conclusion
 
-
-
-
+En conclusion, étant donné qu’il s’agissait de notre tout premier projet fait sur Unreal Engine 4 et ce, en réalité virtuelle alors que nous avions d’autres cours à suivre, il est fort probable que nous aurions fait bien mieux si nous avions plus de temps devant nous. Cependant, nous en avons appris énormément sur le développement de jeux en général en accomplissant ce projet. Nous nous sommes amusés à créer un jeu qui nous représente et qui nous plait. Nous sommes fiers de ce premier projet d’envergure qui nous a pris du temps à accomplir, et ce ne sera très probablement pas le dernier!
