@@ -1,4 +1,5 @@
 # ProjetSIM_VR
+# Titre du jeu : New Super Escape Physics Simulator Legend of Roberta DX Platinum VR Edition
 ## Projet réalisé par : Guillaume Bordeleau, Jérémy Sinou et William Trépanier
 
 ## Description du projet
