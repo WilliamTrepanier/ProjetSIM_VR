@@ -140,10 +140,11 @@ Ce tutoriel permettra de savoir comment faire: https://youtu.be/asDkS_qDVpI
 
 - Au début, nous avions de la difficulté avec GitHub, étant donné que nous étions des débutants qui ne connaissaient pas GitHub. Nous avons dû corrompre plusieurs projets avant de comprendre comment GitHub fonctionne et comment utiliser les branches afin de travailler avec GitHub.
 - Nous avons dû apprendre à utiliser Unreal Engine à partir de zéro, ce qui nous a demandé beaucoup de temps et d’efforts avant d’être à l’aise avec Unreal avec des tutoriels théoriques. De plus, apprendre à utiliser Unreal Engine a été difficile, étant donné la faible quantité de tutoriels comparativement à d’autres logiciels.
-- Un des membres de l’équipe n’avait pas l’équipement nécessaire afin de continuer le développement du projet chez lui, ce qui ralentissait le développement en général.
+- Nous avions de la difficulté à rassembler tous les éléments de notre projet à cause d'un manque de matériel suffisament sophistiqué chez nous.
 - Trouver des tutoriels pour apprendre et s’habituer à la réalité virtuelle était compliqué, étant donné que les tutoriels comportaient surtout de la théorie en lien avec la VR. Il fallait également comprendre en peu de temps comment fonctionnait les éléments de la réalité virtuelle afin d’adapter les tutoriels trouvés sur Internet pour les adapter en réalité virtuelle par nous-mêmes.
 - Convertir nos idées pour qu’elles deviennent réelles était compliqué, étant donné que nos idées en lien avec des phénomènes physiques sont difficiles à convertir en énigmes et à les programmer en Blueprints.
 - Configurer le casque VR en mode développeur pour tester le jeu nativement, configurer l’ordinateur pour qu’il puisse se connecter au casque en mode développeur, configurer Unreal Engine pour le développement sur Android (configurer le projet en APK).
+- Espace de stockage gratuit insuffisant sur GitHub.
 
 ## Échéancier
 
