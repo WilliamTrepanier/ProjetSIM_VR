@@ -181,7 +181,7 @@ Fin du level design, finaliser le JavaDoc (les commentaires) et remise du projet
 
 ## UML
 
-<img src="./Images/UML.png" alt="UML" width="1300">
+<img src="./Images/diagramme de classe.jpg" alt="UML" width="1300">
 
 ## Perspectives
 
